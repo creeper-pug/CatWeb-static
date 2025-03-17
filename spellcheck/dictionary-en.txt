@@ -5,7 +5,6 @@ about
 abroad
 absence
 absolute
-absolutely
 absorb
 academic
 accept
@@ -499,13 +498,11 @@ conflict
 confront
 confusion
 Congress
-congressional
 connect
 connection
 consciousness
 consensus
 consequence
-conservative
 consider
 considerable
 consideration
@@ -845,7 +842,6 @@ equally
 equipment
 error
 escape
-especially
 essay
 essential
 essentially
@@ -861,7 +857,6 @@ evaluation
 even
 evening
 event
-eventually
 ever
 every
 everybody
@@ -1065,7 +1060,6 @@ gear
 gender
 gene
 general
-generally
 generate
 generation
 genetic
@@ -1171,7 +1165,6 @@ himself
 hire
 historian
 historic
-historical
 history
 hold
 hole
@@ -1404,7 +1397,6 @@ less
 lesson
 letter
 level
-liberal
 library
 license
 life
@@ -1499,7 +1491,6 @@ meat
 mechanism
 media
 medical
-medication
 medicine
 medium
 meet
@@ -1554,7 +1545,6 @@ moreover
 morning
 mortgage
 most
-mostly
 mother
 motion
 motivation
@@ -1868,11 +1858,8 @@ pretend
 pretty
 prevent
 previous
-previously
 price
 pride
-priest
-primarily
 primary
 prime
 principal
@@ -2022,13 +2009,11 @@ relate
 relation
 relationship
 relative
-relatively
 relax
 release
 relevant
 relief
 religion
-religious
 rely
 remain
 remaining
@@ -2038,7 +2023,6 @@ remind
 remote
 remove
 repeat
-repeatedly
 replace
 reply
 report
@@ -2181,7 +2165,6 @@ separate
 sequence
 series
 serious
-seriously
 serve
 service
 session
@@ -2235,7 +2218,6 @@ silence
 silent
 silver
 similar
-similarly
 simple
 simply
 since
@@ -2348,7 +2330,6 @@ still
 stir
 stock
 stockrise
-stomach
 stone
 stop
 storage
@@ -2368,10 +2349,8 @@ stress
 stretch
 strike
 string
-strip
 stroke
 strong
-strongly
 structure
 struggle
 student
