@@ -1,6 +1,6 @@
 [
   {
     "type": "ignore",
-    "pattern": "s$"
+    "pattern": "([^s])s$"
   }
 ]
