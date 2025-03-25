@@ -1,1 +1,6 @@
-
+[
+  {
+    "type": "ignore",
+    "pattern": "s$"
+  }
+]
