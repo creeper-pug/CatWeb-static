@@ -1,6 +1,7 @@
 [
   {
-    "type": "ignore",
-    "pattern": "([^s])s$"
+    "type": "replace",
+    "pattern": "([^s])s$",
+    "replacement": "%1"
   }
 ]
